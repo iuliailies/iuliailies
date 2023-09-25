@@ -1,6 +1,6 @@
 ### Hi there! :wave:
 
-Glad to see you here! I'm Iulia, a frontend developer, currently completing my bachelor studies. I have a keen eye for :sparkles:visual design:sparkles: and I do my best to bring this passion to every project I work on.
+Glad to see you here! I'm Iulia, a frontend developer, currently in the first year of my master's studies. I have a keen eye for :sparkles:visual design:sparkles: and I do my best to bring this passion to every project I work on.
 
 My latest projects are pinned below, hope you'll find something of interest to you.
 
